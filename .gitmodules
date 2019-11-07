@@ -1,0 +1,3 @@
+[submodule "subprojects/evatest"]
+	path = subprojects/evatest
+	url = ../eva_test
